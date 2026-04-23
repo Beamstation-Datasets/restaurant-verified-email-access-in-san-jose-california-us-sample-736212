@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in San Jose, California, US
 
-> Free BeamStation sample export with 46 rows and masked direct-contact fields.
+> Free BeamStation sample export with 38 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `736212` |
 | Location | San Jose |
 | Category | Restaurants |
-| Full dataset size | 461 records |
-| Free sample size | 46 records (9.98%) |
-| Last export | 2026-04-15T04:18:52.512946+00:00 |
+| Full dataset size | 383 records |
+| Free sample size | 38 records (9.92%) |
+| Last export | 2026-04-22T09:50:02.105149+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-san-jose-california-us-sample-736212/releases/download/sample-latest/beamstation_736212_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
