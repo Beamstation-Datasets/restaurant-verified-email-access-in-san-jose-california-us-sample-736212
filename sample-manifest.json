@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bb54bd47-4302-4848-973a-a73b2b6f663e",
+  "export_job_id": "ff37b062-b686-42e7-92c4-817e984015d7",
   "id_short": 736212,
-  "published_at": "2026-04-23T07:07:36Z",
+  "published_at": "2026-04-29T19:33:49Z",
   "repo_name": "restaurant-verified-email-access-in-san-jose-california-us-sample-736212",
   "sample_asset_name": "beamstation_736212_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/736212/beamstation_736212_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 38,
-  "sample_sha256": "6e25dad5b20bf0b6379c830630a6df5741c6cfeff0e203138230da45f2fcd25e",
-  "sample_size_bytes": 168092,
-  "total_records": 383
+  "sample_records": 40,
+  "sample_sha256": "c0510b50c2f62fd6f9b0d8fc41518856b22b03b73f2b0f18fd46183214e8df3f",
+  "sample_size_bytes": 169802,
+  "total_records": 406
 }
